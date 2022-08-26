@@ -163,3 +163,17 @@
   163  ls exec_command.log
   164  vi exec_command.log
   165  history 300 > exec_command.log
+  166  cat exec_command.log
+  167  ls
+  168  cd /server_lesson
+  169  cd server_lesson
+  170  cd ~
+  171  cd server_lesson
+  172  git log
+  173  v
+  174  git status
+  175  git add .
+  176  git status
+  177  vi exec_command.log
+  178  cat exec_command.log
+  179  history 300 > exec_command.log
